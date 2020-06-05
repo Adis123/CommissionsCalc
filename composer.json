@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpunit/phpunit": "^9.1"
+    },
+    "autoload" : {
+        "files": [
+            "app/helpers.php"
+        ],
+        "classmap": ["app/"]
+    }
+}
